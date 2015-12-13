@@ -6,4 +6,4 @@ Immortals DestructionNest
 - Update Hackshield [13/12/2015]
 Read This :
 Jika mengalami Patch Copy failed silahkan rename IDNLauncher.exe
-menjadi IDNLauncherOld.exe lalu hapus IDNLauncherOld.exe dan membuka IDNLauncher.exe
+menjadi IDNLauncherOld.exe lalu hapus IDNLauncherOld.exe dan buka IDNLauncher.exe
