@@ -2,5 +2,5 @@ Immortals DestructionNest
 
 - Update [10/12/2015]
 - Perpindahan Server berhasil [10/12/2015]
-- Update New Launcher [13/12/2015] - Jika mengalami Patch Copy failed silahkan rename IDNLauncher.exe menjadi IDNLauncherOld.exe
+- Update New Launcher [13/12/2015] - Jika mengalami Patch Copy failed silahkan rename IDNLauncher.exe menjadi IDNLauncherOld.exe lalu hapus IDNLauncherOld.exe dan membuka IDNLauncher.exe
 - Update Hackshield [13/12/2015]
